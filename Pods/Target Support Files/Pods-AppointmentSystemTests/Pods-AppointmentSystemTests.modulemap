@@ -1,0 +1,6 @@
+framework module Pods_AppointmentSystemTests {
+  umbrella header "Pods-AppointmentSystemTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

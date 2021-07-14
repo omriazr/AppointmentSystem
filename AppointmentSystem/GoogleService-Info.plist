@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>460342336232-4k4qqb77u4m0du0mqd33pk01r4g62f4f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.460342336232-4k4qqb77u4m0du0mqd33pk01r4g62f4f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUrwRi2C0iITYW9T0UAhImRbNcLXJr6f8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>460342336232</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Omri-Azaria.AppointmentSystem</string>
+	<key>PROJECT_ID</key>
+	<string>appointmentsystem-fc4ef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>appointmentsystem-fc4ef.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:460342336232:ios:8e19edd8fb7953b12f075d</string>
+</dict>
+</plist>
