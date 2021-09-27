@@ -24,7 +24,7 @@ appointment system management app for doctors using Firebase Database.
 
 
 
-**description**
+### **description**
 
 When the user enters the system for the first time, the system will ask him for a permission to get notifications, so that we can send the user notifications.
 At the login screen, the user has 2 options - to sign up to the system or to log in. Each one of them leads to a different screen.
